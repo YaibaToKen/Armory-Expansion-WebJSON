@@ -1,0 +1,50 @@
+[
+  {
+    "output": {
+      "fluid": "gold",
+      "amount": 144
+    },
+    "inputs": [
+      {
+        "fluid": "copper",
+        "amount": 108
+      },
+      {
+        "fluid": "iron",
+        "amount": 36
+      }
+    ]
+  },
+  {
+    "output": {
+      "fluid": "cobalt",
+      "amount": 144
+    },
+    "inputs": [
+      {
+        "fluid": "silver",
+        "amount": 108
+      },
+      {
+        "fluid": "iron",
+        "amount": 36
+      }
+    ]
+  },
+  {
+    "output": {
+      "fluid": "ardite",
+      "amount": 144
+    },
+    "inputs": [
+      {
+        "fluid": "gold",
+        "amount": 108
+      },
+      {
+        "fluid": "iron",
+        "amount": 36
+      }
+    ]
+  }
+]
